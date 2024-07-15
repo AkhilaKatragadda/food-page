@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family:Arial, sans-serif;
+
+}
+.navbar-brand{
+    font-weight: bold;
+}
+.jumbotron{
+    background:url('dish5.webp') no-repeat center center;
+    background-size:cover;
+    color:white;
+
+}
+.jumbotron h1{
+    font-size:3.5rem;
+    font-weight:bold;
+
+}
+.jumbotron p{
+    font-size:1.5rem;
+}
+.card img{
+    height: 200px;
+    object-fit: cover;
+}
+.price-box {
+    background-color: yellow;
+    color: black; 
+    padding: 10px;
+    font-size: 1.25rem;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 5px;
+    margin-top: 10px;
+footer{
+    background-color: blueviolet;
+    color:white;
+
+}
